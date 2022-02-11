@@ -15,6 +15,8 @@ namespace WebDemoDevopsgithub
         {
             CreateHostBuilder(args).Build().Run();
         }
+        //teste de action
+
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
